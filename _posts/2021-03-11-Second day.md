@@ -7,4 +7,4 @@ categories: Test
 
 ## More testing
 
-For now its been a little difficult to understand how to use propperly :car
+For now its been a little difficult to understand the scope of Git Hub Pages
