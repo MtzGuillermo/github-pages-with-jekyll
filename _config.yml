@@ -2,6 +2,7 @@ title: The notebook of my enthusiasm
 author: Guillermo Martínez #GitHub User
 email: guillermoaug@gmail.com
 theme: minima
+markdown: kramdown
 description: > # this means to ignore newlines until "baseurl:"
   This is my journey to become a Data Scientist
   
